@@ -1,0 +1,28 @@
+/* Processing Text */
+#op_processText {
+	width: 500px;
+	background-color: #EEE;
+	color: #E2762B;
+	font-size: 9px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+/* Archive Listing */
+#op_listArchives ul {
+	width: 400px;
+}
+
+#op_listArchives a {
+	color: #70695E;
+}
+
+#op_listArchives span {
+	font-size: 16px;
+	color: #E2762B;
+	font-weight: bold;
+}
+
+#op_listArchives .op_archiveDirectory li {
+	padding-left: 10px;
+}
